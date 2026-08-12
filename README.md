@@ -3,10 +3,8 @@
 > Architecture, identity, and things that shouldn't quite make sense.
 ![Logo](LOGO.png)
 ## About Me
-Hi! I'm Morven Kent Mancao, an architecture student interested in
-architecture, visual identity, fashion, and experimental design.
-I explore the relationship between space, identity, and visual
-expression through architectural work and creative projects.
+Hello! I am Morven Kent Mancao, an architecture student who loves to learn more about architecture, visual identity, fashion, and experimental design.
+My studies and experiments deal with the connection of space, identity, and visual communication.
 ## My Brand
 - Hot Pink — Primary Color
 - Off-White — Secondary Color
