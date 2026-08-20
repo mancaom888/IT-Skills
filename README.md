@@ -1,7 +1,7 @@
 # IT-Skills
 # KENT
 > Architecture, identity, and things that shouldn't quite make sense.
-![Logo](LOGO MANCAO.png)
+![Logo](LOGO%20MANCAO.png)
 ## About Me
 Hello! I am Morven Kent Mancao, an architecture student who loves to learn more about architecture, visual identity, fashion, and experimental design.
 My studies and experiments deal with the connection of space, identity, and visual communication.
